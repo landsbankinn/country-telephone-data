@@ -555,7 +555,7 @@ var allCountries = [
           'Germany (Deutschland)',
           'de',
           '49',
-          '+.. ... .......'
+          '+.. ... ........'
        ],
        [
           'Ghana (Gaana)',
@@ -712,7 +712,7 @@ var allCountries = [
           'Italy (Italia)',
           'it',
           '39',
-          '+.. ... ......',
+          '+.. ... .......',
           0
        ],
        [
