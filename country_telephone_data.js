@@ -142,7 +142,7 @@ var allCountries = [
   ["Falkland Islands (Islas Malvinas)", "fk", "500", "+...-....."],
   ["Faroe Islands (Føroyar)", "fo", "298", "+...-...-..."],
   ["Fiji", "fj", "679", "+...-..-....."],
-  ["Finland (Suomi)", "fi", "358", "+... .. .... ...."],
+  ["Finland (Suomi)", "fi", "358", "+... .. ... .. .."],
   ["France", "fr", "33", "+.. . .. .. .. .."],
   ["French Guiana (Guyane française)", "gf", "594", "+...-.....-...."],
   ["French Polynesia (Polynésie française)", "pf", "689", "+...-..-..-.."],
