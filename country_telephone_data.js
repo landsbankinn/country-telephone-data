@@ -137,7 +137,7 @@ var allCountries = [
   ["El Salvador", "sv", "503", "+... ....-...."],
   ["Equatorial Guinea (Guinea Ecuatorial)", "gq", "240", "+...-..-...-...."],
   ["Eritrea", "er", "291", "+...-.-...-..."],
-  ["Estonia (Eesti)", "ee", "372", "+...-...-...."],
+  ["Estonia (Eesti)", "ee", "372", "+...-....-...."],
   ["Ethiopia", "et", "251", "+...-..-...-...."],
   ["Falkland Islands (Islas Malvinas)", "fk", "500", "+...-....."],
   ["Faroe Islands (Føroyar)", "fo", "298", "+...-...-..."],
